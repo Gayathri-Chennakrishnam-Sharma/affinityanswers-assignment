@@ -1,0 +1,25 @@
+Which web tool has impressed you the most and why?
+
+I would like to say tracking the status and interpreting the data are very important in every business, 
+no matter how small or large the company is so google analytics is one such tool which I think is useful to any organization.
+
+Given a web application, how do you choose a JS framework to solve?
+
+An ideal developer would choose a JS framework/stack for developing and maintaining a web application based on numerous factors
+such as scalability, reuseability, secure code base, ideal project structure, hosting requirements, ease of installation,
+learning curve,core library,DB abstraction and ORM.
+
+ How much of Unix command line are you familiar with? Give some examples
+
+I know a few,
+ "uname -a" to find which operating system your system is running on in UNIX.
+ ls to list the available
+ ping command to  check if a host is alive etc.
+
+ What do these numbers mean to you? 404, 403, 500, 502
+
+ These are response status codes that the server sends back with each response and they go by following status messages:
+ 404 - resource not foundation
+ 403 - forbidden
+ 500 - Internal server error
+ 502 - bad gateway
